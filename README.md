@@ -1,5 +1,6 @@
 # bdo-kapcha-recognizer
 
+Identification captcha for automatic fishing in Black Desert Online
 
 ### Requirements
 In order to use this image you must have Docker Engine installed. Instructions
