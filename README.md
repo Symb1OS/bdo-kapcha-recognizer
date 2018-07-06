@@ -1,4 +1,4 @@
-# bdo-kapcha-recognizer
+# bdo-captcha-recognizer
 
 Identification captcha for automatic fishing in Black Desert Online
 
